@@ -54,11 +54,9 @@ D:\MyProject\博客\docsify1\docs\
 ### 图片
 
 ```
-../.*/repo/assets
 ../../../../repo/assets
-assets
+../../../../repo%5Cassets
 
 https://image.201068.xyz/assets
-
 ```
 
